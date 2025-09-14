@@ -1,5 +1,6 @@
 # 🚀 Projet Spring Data Mapping — JPA avec Spring Boot
 
+
 🌟 **Nouvelles fonctionnalités**  
 ✅ Relations JPA : `@OneToOne`, `@OneToMany`, `@ManyToOne`, `@ManyToMany`  
 ✅ Self-referencing pour hiérarchies d'utilisateurs  
@@ -7,6 +8,7 @@
 ✅ Architecture simple pour apprendre **"step by step"**
 
 ---
+
 
 ## 📌 Description
 
@@ -16,6 +18,7 @@ Ce projet permet de comprendre et tester les relations entre entités dans Sprin
 - **User ↔ UserGroup** (ManyToMany)  
 
 ---
+
 
 ## ⚙️ Technologies utilisées
 
