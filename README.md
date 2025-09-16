@@ -25,4 +25,4 @@ Ce projet permet de comprendre et tester les relations entre entités dans Sprin
 - Java 11+  
 - Spring Boot 3 (Spring Web, Spring Data JPA)  
 - Maven  
-- MySQL / H2 pour tests  
+- MySQL   
